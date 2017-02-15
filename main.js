@@ -1,0 +1,1 @@
+alert("Let's get ready for JavaScript!");
